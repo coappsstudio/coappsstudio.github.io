@@ -3,34 +3,34 @@
   "data_version": 1,
   "emoticons": [
     {
-      "src": "https://dl.dropboxusercontent.com/s/3pykatohb7vxz27/face_1.png?dl=0"
+      "image_url": "https://dl.dropboxusercontent.com/s/3pykatohb7vxz27/face_1.png?dl=0"
     },
     {
-      "src": "https://dl.dropboxusercontent.com/s/1d5zidlbuddvqtf/face_2.png?dl=0
+      "image_url": "https://dl.dropboxusercontent.com/s/1d5zidlbuddvqtf/face_2.png?dl=0
     },
     {
-      "src": "https://dl.dropboxusercontent.com/s/iguqdgnf82y561x/face_3.png?dl=0"
+      "image_url": "https://dl.dropboxusercontent.com/s/iguqdgnf82y561x/face_3.png?dl=0"
     },
     {
-      "src": "https://www.dropbox.com/s/uibp8l8mafm6fxe/face_4.png?dl=0"
+      "image_url": "https://dl.dropboxusercontent.com/s/uibp8l8mafm6fxe/face_4.png?dl=0"
     },
     {
-      "src": "https://www.dropbox.com/s/e551aqosxanlatz/face_5.png?dl=0"
+      "image_url": "https://dl.dropboxusercontent.com/s/e551aqosxanlatz/face_5.png?dl=0"
     },
     {
-      "src": "https://www.dropbox.com/s/6itz87pmhxuldpm/face_6.png?dl=0"
+      "image_url": "https://dl.dropboxusercontent.com/s/6itz87pmhxuldpm/face_6.png?dl=0"
     },
     {
-      "src": "https://www.dropbox.com/s/xp8b3t9nt75pt35/face_7.png?dl=0"
+      "image_url": "https://dl.dropboxusercontent.com/s/xp8b3t9nt75pt35/face_7.png?dl=0"
     },
     {
-      "src": "https://www.dropbox.com/s/zpjp7enoo55mxku/face_8.png?dl=0"
+      "image_url": "https://dl.dropboxusercontent.com/s/zpjp7enoo55mxku/face_8.png?dl=0"
     },
     {
-      "src": "https://www.dropbox.com/s/vr3h3tjxg0fj5xh/face_9.png?dl=0"
+      "image_url": "https://dl.dropboxusercontent.com/s/vr3h3tjxg0fj5xh/face_9.png?dl=0"
     },
     {
-      "src": "https://www.dropbox.com/s/izhkxep5jdya8x2/face_10.png?dl=0"
+      "image_url": "https://dl.dropboxusercontent.com/s/izhkxep5jdya8x2/face_10.png?dl=0"
     }
   ]
 }
